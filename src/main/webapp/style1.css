@@ -1,5 +1,5 @@
 body {
-            background-color: rgb(128, 128, 0);
+            background-color:rgb(18, 17, 17);
         }
 
         .oval-box-container {
@@ -14,7 +14,7 @@ body {
             height: 200px; /* Adjusted height */
             background-color: #71816d;
             border-radius: 50%;
-            color: #fff;
+            color:rgb(255, 215, 0);
             text-align: center;
             display: flex;
             flex-direction: column;

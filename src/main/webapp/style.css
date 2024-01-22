@@ -1,6 +1,6 @@
 body {
     background-color:rgb(18, 17, 17); /* Bootstrap primary blue */
-    color: rgb(240, 240, 5); /* Text color for better contrast on the blue background */
+    color: rgb(255, 215, 0); /* Text color for better contrast on the blue background */
    
 }
 .navbar-nav .nav-link {
@@ -13,7 +13,7 @@ body {
 }
 
 .cdClass{
-	background-color: #ffffff;
+	background-color:rgb(255, 215, 0);
 	border-radius: 10px;
 }
 
