@@ -10,8 +10,8 @@ body {
 
         .oval-box {
             position: relative;
-            width: 300px; /* Adjusted width */
-            height: 200px; /* Adjusted height */
+            width: 300px; 
+            height: 200px; 
             background-color: #71816d;
             border-radius: 50%;
             color:rgb(255, 215, 0);

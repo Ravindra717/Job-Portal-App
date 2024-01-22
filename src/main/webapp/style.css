@@ -1,15 +1,15 @@
 body {
-    background-color:rgb(18, 17, 17); /* Bootstrap primary blue */
-    color: rgb(255, 215, 0); /* Text color for better contrast on the blue background */
+    background-color:rgb(18, 17, 17); 
+    color: rgb(255, 215, 0); 
    
 }
 .navbar-nav .nav-link {
-            font-size: 18px; /* Adjust the font size as needed */
+            font-size: 18px; 
         }
 .container {
-    border-radius: 5px; /* Optional: Add some border-radius for a softer look */
+    border-radius: 5px; 
     padding: 20px;
-    margin-top: 50px; /* Adjust the margin as needed */
+    margin-top: 50px; 
 }
 
 .cdClass{
